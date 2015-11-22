@@ -1,0 +1,48 @@
+body { background:#eee; }
+.wrapper {
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	padding: 15px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.ui-autocomplete-category {
+    font-weight: bold;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 1.5;
+}
+
+#po18_isfiled {
+	background: #eee;
+	border-radius: 5px;
+	padding: 10px;
+	display: none;
+
+}
+	
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+	
+.btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 999px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background: red;
+  cursor: inherit;
+  display: block;
+}
+	
+input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
