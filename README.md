@@ -1,6 +1,6 @@
-# Reporting System
-
 ![Reporting System](https://raw.githubusercontent.com/hershanand/reporting-system/master/img/screenshot.png "Reporting System")
+
+# Reporting System
 
 This is a reporting system developed for my company that allows inspectors to login and submit life saftey issues that they may encounter during their daily inspections. Inspectors also have the ability to edit and delete their own reports.
 
